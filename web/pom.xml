@@ -38,9 +38,9 @@
 -->
 	
 	<scm>
-     <url>scm:git:ssh://git@github.com:garsanma/helloworldci.git</url>
-     <connection>scm:git:ssh://git@github.com:garsanma/helloworldci.git</connection>
-     <developerConnection>scm:git:ssh://git@github.com:garsanma/helloworldci.git</developerConnection>
+     <url>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</url>
+     <connection>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</connection>
+     <developerConnection>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</developerConnection>
     <tag>HEAD</tag>
     </scm>
 	
