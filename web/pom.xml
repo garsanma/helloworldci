@@ -29,10 +29,18 @@
       <tag>HEAD</tag> 	
   </scm>-->
 	
-   <scm>
+ <!--  <scm>
      <url>https://github.com/garsanma/helloworldci.git</url>
      <connection>scm:git:https://github.com/garsanma/helloworldci.git</connection>
      <developerConnection>scm:git:https://github.com/garsanma/helloworldci.git</developerConnection>
+    <tag>HEAD</tag>
+    </scm>
+-->
+	
+	<scm>
+     <url>scm:git:ssh://git@github.com:garsanma/helloworldci.git</url>
+     <connection>scm:git:ssh://git@github.com:garsanma/helloworldci.git</connection>
+     <developerConnection>scm:git:ssh://git@github.com:garsanma/helloworldci.git</developerConnection>
     <tag>HEAD</tag>
     </scm>
 	
