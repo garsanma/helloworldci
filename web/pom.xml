@@ -39,8 +39,8 @@
 	
 	<scm>
         <connection>https://github.com/garsanma/helloworldci.git</connection>
-        <developerConnection>scm:git:https://ggggarsanma:M150681g@github.com/garsanma/helloworldci.git</developerConnection>
-        <url>https://github.com/garsanma/helloworldci.git</url>
+        <developerConnection>scm:git:https://garsanma:M150681g@github.com/garsanma/helloworldci.git</developerConnection>
+        <url>https://github.com/ggggarsanma/helloworldci.git</url>
         <tag>HEAD</tag> 	
 	</scm>
 	
