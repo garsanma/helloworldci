@@ -22,39 +22,13 @@
 
 	</dependencies>
 	
-	<!--<scm>
-        <connection>scm:git:https://rcrespop@bitbucket.org/rcrespop/web.git</connection>
-        <developerConnection>scm:git:https://${username}:${password}@bitbucket.org/rcrespop/web.git</developerConnection>
-        <url>scm:git:https://rcrespop@bitbucket.org/rcrespop/web.git</url>
-      <tag>HEAD</tag> 	
-  </scm>-->
-	
- <!--  <scm>
-     <url>https://github.com/garsanma/helloworldci.git</url>
-     <connection>scm:git:https://github.com/garsanma/helloworldci.git</connection>
-     <developerConnection>scm:git:https://github.com/garsanma/helloworldci.git</developerConnection>
-    <tag>HEAD</tag>
-    </scm>
--->
 	<scm>
 	<url>https://github.com/garsanma/helloworldci.git</url>
         <connection>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</connection>
         <developerConnection>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</developerConnection>
         <tag>HEAD</tag>
 	</scm>
-<!--	<scm>
-        <connection>https://github.com/garsanma/helloworldci.git</connection>
-        <developerConnection>scm:git:https://garsanma:M150681g@github.com/garsanma/helloworldci.git</developerConnection>
-        <url>https://github.com/garsanma/helloworldci.git</url>
-        <tag>HEAD</tag> 	
-	</scm>
-	-->
-	<!--<scm>
-     <url>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</url>
-     <connection>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</connection>
-     <developerConnection>scm:git:ssh://garsanma@github.com/garsanma/helloworldci.git</developerConnection>
-    <tag>HEAD</tag>
-    </scm>-->
+
 	
 	 <distributionManagement>
 		<repository>
