@@ -26,12 +26,12 @@
        <project.scm.id>my-scm-server</project.scm.id>
     </properties>
 -->
-	<scm>
-        <connection>scm:git:https://garsanma@github.com/garsanma/helloworldci.git</connection>
+<scm>
+	 <connection>scm:git:https://garsanma@github.com/garsanma/helloworldci.git</connection>
 	 <developerConnection>scm:git:https://${username}:${password}@github.com/garsanma/helloworldci.git</developerConnection>
         <url>scm:git:https://garsanma@github.com/garsanma/helloworldci.git</url>
       <tag>web-0.0.2</tag> 	
-      </scm>
+</scm>
 
 	
 	 <distributionManagement>
